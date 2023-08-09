@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "414954459362",
+    "project_id": "jobs-0908232100",
+    "storage_bucket": "jobs-0908232100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414954459362:android:b90710ba3a53a9cd200ebb",
+        "android_client_info": {
+          "package_name": "com.rmd.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414954459362-kp4p8d0hv4vahf0b7gtpvdt9b78opn9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmd.business",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "414954459362-e3gj7l0t2afccvdab9q4687kcrpiv18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM8B3Nt-YccPaVUUvABeWHg4LySFmXTRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414954459362-e3gj7l0t2afccvdab9q4687kcrpiv18d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414954459362-lto6ve19q53bkigjq6pm8g7713n97f0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.business"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
